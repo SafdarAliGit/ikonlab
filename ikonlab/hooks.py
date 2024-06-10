@@ -2,7 +2,7 @@ from . import __version__ as app_version
 
 app_name = "ikonlab"
 app_title = "Ikonlab"
-app_publisher = "portal"
+app_publisher = "VUT"
 app_description = "Ikonlab"
 app_email = "safdar211@gmail.com"
 app_license = "MIT"
@@ -215,3 +215,4 @@ app_license = "MIT"
 # auth_hooks = [
 #	"ikonlab.auth.validate"
 # ]
+required_apps = ["erpnext"]
