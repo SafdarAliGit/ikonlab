@@ -261,7 +261,7 @@
    "description": null,
    "docstatus": 0,
    "dt": "Sales Invoice Item",
-   "fetch_from": null,
+   "fetch_from": "item_code.trade_price",
    "fetch_if_empty": 0,
    "fieldname": "trade_price",
    "fieldtype": "Currency",
